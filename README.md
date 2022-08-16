@@ -29,20 +29,22 @@ $ docker-compose build && docker-compose up
 ## Development
 #### Server:
 ```bash
-$ cd server && yarn
+$ cd server
 ```
 ```bash
-$ yarn build:watch
+$ npm install
+$ npm start
 ```
 ```bash
 $ yarn dev
 ```
 #### Client:
 ```bash
-$ cd client && yarn
+$ cd client
 ```
 ```bash
-$ yarn start
+$ npm install
+$ npm start
 ```
 
 <br>
