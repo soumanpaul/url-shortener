@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/soroushchehresa/url-shortener/master/preview.png" width="100%" />
-</p>
-
-<br>
 
 # URL Shortener
  URL Shortener web app.
