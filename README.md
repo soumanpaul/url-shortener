@@ -25,19 +25,13 @@ $ docker-compose build && docker-compose up
 #### Server:
 ```bash
 $ cd server
-```
-```bash
 $ npm install
 $ npm start
 ```
-```bash
-$ yarn dev
-```
+
 #### Client:
 ```bash
 $ cd client
-```
-```bash
 $ npm install
 $ npm start
 ```
